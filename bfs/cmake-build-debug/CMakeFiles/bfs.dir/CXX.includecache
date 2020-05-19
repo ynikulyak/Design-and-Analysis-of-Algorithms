@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jane/CLionProjects/bfs/BFS.cpp
+iostream
+-
+queue
+-
+string
+-
+fstream
+-
+list
+-
+
