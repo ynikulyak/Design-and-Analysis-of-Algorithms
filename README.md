@@ -6,21 +6,22 @@ The course teaches the important data structures in computer science in C++ lang
 
 The main covered topics were:
 
-###1. Graphs
+#1. Graphs
 
-    Depth-first-search
+     Depth-first-search
      Breadth-first-search
      Graph representation (adjacency matrix, adjacency list)
-    Directed/undirected, weighted, connected, acyclic
+     Directed/undirected, weighted, connected, acyclic
 	
-###2. Analysis of algorithm efficiency:
+#2. Analysis of algorithm efficiency:
+
      Big-Oh (O) Notation 
      Big-Theta ( Θ ) Notation 
      Big-Omega ( Ω ) 
      Master Theorem
      Basic Operation 
 	 
-###3. Trees and heap
+#3. Trees and heap
 
      Binary tree
      Binary Search Tree
@@ -51,31 +52,27 @@ Searches:
 3. Sequential Search
 4. Binary Search
 
-##Algorithm design technics:
+Algorithm design technics:
 
-###1. Decrease-and-Conquer: 
+#1. Decrease-and-Conquer: 
 
       Insertion Sort, 
-      Topological Sort
-	  
-###2. Decrease-by-Constant-Factor: 
+      Topological Sort  
+#2. Decrease-by-Constant-Factor: 
 
       Binary Search, 
-      Fake-Coin Problem
-	  
-###3. Divide-and-Conquer: 
+      Fake-Coin Problem  
+#3. Divide-and-Conquer: 
 
       Merge Sort, 
       Quick Sort, 
       Binary Tree Traversals
-	  
-###4. Transform and Conquer:
+#4. Transform and Conquer:
 
       Presorting, 
       Balanced Search Trees (AVL, 2-3 Tree), 
       Heap Sort and Heaps
-	  
-###5. Brute Force: 
+#5. Brute Force: 
 
        Selection Sort, 
        Bubble Sort, 
@@ -83,12 +80,11 @@ Searches:
        Depth-First Search, 
        Breadth-First Search, 
        Traveling Salesman Problem, 
-       Knapsack Problem 
-	   
-###6. Dynamic Programming: 
+       Knapsack Problem   
+#6. Dynamic Programming: 
 
         Warshall's Algorithm
-###7. Greedy Algorithm: 
+#7. Greedy Algorithm: 
 
         Prim's Algorithm, 
         Dijkstra's Algorithm
